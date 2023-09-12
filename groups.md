@@ -1,0 +1,139 @@
+# Cyber Threat Groups
+- Ajax Security Team
+- ALLANITE
+- Andariel
+- Aoqin Dragon
+- APT-C-36
+- APT1
+- APT12
+- APT16
+- APT17
+- APT18
+- APT19
+- APT28
+- APT29
+- APT3
+- APT30
+- APT32
+- APT33
+- APT37
+- APT38
+- APT39
+- APT41
+- Aquatic Panda
+- Axiom
+- BackdoorDiplomacy
+- BITTER
+- BlackOasis
+- BlackTech
+- Blue Mockingbird
+- Bouncing Golf
+- BRONZE BUTLER
+- Carbanak
+- Chimera
+- Cleaver
+- Cobalt Group
+- Confucius
+- CopyKittens
+- CURIUM
+- Dark Caracal
+- Darkhotel
+- DarkHydrus
+- DarkVishnya
+- Deep Panda
+- Dragonfly
+- DragonOK
+- Earth Lusca
+- Elderwood
+- Ember Bear
+- Equation
+- Evilnum
+- EXOTIC LILY
+- Ferocious Kitten
+- FIN10
+- FIN4
+- FIN5
+- FIN6
+- FIN7
+- FIN8
+- Fox Kitten
+- GALLIUM
+- Gallmaker
+- Gamaredon Group
+- GCMAN
+- GOLD SOUTHFIELD
+- Gorgon Group
+- Group5
+- HAFNIUM
+- HEXANE
+- Higaisa
+- Inception
+- IndigoZebra
+- Indrik Spider
+- Ke3chang
+- Kimsuky
+- LAPSUS$
+- Lazarus Group
+- LazyScripter
+- Leafminer
+- Leviathan
+- Lotus Blossom
+- LuminousMoth
+- Machete
+- Magic Hound
+- menuPass
+- Metador
+- Moafee
+- Mofang
+- Molerats
+- Moses Staff
+- MuddyWater
+- Mustang Panda
+- Naikon
+- NEODYMIUM
+- Nomadic Octopus
+- OilRig
+- Orangeworm
+- Patchwork
+- PittyTiger
+- PLATINUM
+- POLONIUM
+- Poseidon Group
+- PROMETHIUM
+- Putter Panda
+- Rancor
+- Rocke
+- RTM
+- Sandworm Team
+- Scarlet Mimic
+- SideCopy
+- Sidewinder
+- Silence
+- Silent Librarian
+- SilverTerrier
+- Sowbug
+- Stealth Falcon
+- Strider
+- Suckfly
+- TA459
+- TA505
+- TA551
+- TeamTNT
+- TEMP.Veles
+- The White Company
+- Threat Group-1314
+- Threat Group-3390
+- Thrip
+- Tonto Team
+- Transparent Tribe
+- Tropic Trooper
+- Turla
+- Volatile Cedar
+- Whitefly
+- Windigo
+- Windshift
+- Winnti Group
+- WIRTE
+- Wizard Spider
+- ZIRCONIUM
+> Source: `https://attack.mitre.org/groups/`
