@@ -1,4 +1,5 @@
 # Netcat Complete Guide
+![netcat-tutorial](https://github.com/offsecnepal/red-teaming-specials/assets/111997815/5ca36c6f-0a8a-46c9-b0a9-e21d4e073f8b)
 # Basic switches/flags used:
 ```
     -e program to execute after connect
